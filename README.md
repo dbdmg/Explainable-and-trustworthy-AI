@@ -22,3 +22,12 @@ Interpretable by design
 
 ### Lab 2
 Post-hoc global explanation methods
+
+### Lab 3a
+Post-hoc Local explanation methods – LIME
+
+### Lab 3b 
+Post-hoc Local explanation methods – SHAP
+
+### Lab 5
+Concept-based XAI
